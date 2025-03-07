@@ -1,8 +1,3 @@
-
----
-
-### **3. Python Code: `chatbot.py`**  
-```python
 def chatbot_response(user_input):
     """Simple chatbot that responds to basic greetings."""
     responses = {
