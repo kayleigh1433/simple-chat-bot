@@ -15,6 +15,6 @@ if __name__ == "__main__":
     while True:
         user_message = input("You: ")
         if user_message.lower() == "bye":
-            print("Bot: See you later! 👋")
+            print("Bot: See you later!")
             break
         print("Bot:", chatbot_response(user_message))
